@@ -61,6 +61,7 @@ testArray \
 VanDerPol \
 VanDerPol3 \
 ypipe \
+SimpleTimeVar \
 
 SSPs = \
 embrace \
